@@ -43,16 +43,3 @@ Principais scripts (em `package.json`)
 
 Assets
 - Coloque a logo em `./img/Papo_de_Gerente_1.jpg` (ou atualize o import nas telas). PNG/SVG são recomendados.
-
-Nota sobre autenticação
-- Exemplos e componentes referentes a Firebase/Auth foram removidos deste scaffold por solicitação. Posso reativá-los e adicionar instruções se você quiser.
-
-O que já há implementado
-- Navegação entre telas (stack).
-- Telas: `Welcome`, `Login`, `Register`, `Home` (com ações Perfil, Chat e Sair).
-- Estilos base, ícones via `@expo/vector-icons` e suporte a `react-native-reanimated`.
-
-Próximo passo sugerido
-- Adicionar validação de formulário (`formik` + `yup`), fontes personalizadas ou reativar autenticação social.
-
-Se quiser, eu adapto o README para incluir mais comandos ou detalhes de deploy.
