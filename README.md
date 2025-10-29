@@ -41,5 +41,7 @@ Principais scripts (em `package.json`)
 - `start:android`, `start:ios` — tentam abrir no emulador correspondente
 - `start:clean` — inicia com cache limpo
 
-Assets
-- Coloque a logo em `./img/Papo_de_Gerente_1.jpg` (ou atualize o import nas telas). PNG/SVG são recomendados.
+
+https://github.com/user-attachments/assets/357ec5d1-80a3-47b8-8456-48e6348c4813
+
+
